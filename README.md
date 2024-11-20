@@ -1,18 +1,18 @@
-<<<<<<< HEAD
+
 1. # Datos Personales
 =======
 # Datos Personales
->>>>>>> b8961f48f49af7946e00f56f0336969669731aa0
+
 ---
 - Nombre: Sergio alejandro Novoa Rodriguez
 - edad: 34 años
 - Ciudad de residencia :Bogota
 ---
-<<<<<<< HEAD
+
 2. # Informacion de contacto
 - correo electronico: Ing.softwarenovoa2023@gmail.com
 - Numero de celular: 3205102825
-- [facebook] : (https://www.facebook.com/?locale=es_LA)
+- facebook : (https://www.facebook.com/?locale=es_LA)
 ---
 3. # Descripcion Peronal
 ---
